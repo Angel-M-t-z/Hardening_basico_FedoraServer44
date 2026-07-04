@@ -10,6 +10,7 @@ Una vez descargada e instalada (en hardware real o en una máquina virtual), lo 
 realiza es una actualización del sistema con el comando sudo dnf update-y, para tener los
 paquetes mas recientes asegurando que estos tengan los parches de seguridad que sus
 versiones anteriores probablemente no tendrían.
+![](./img/image2.png)
 
 #### Detener y deshabilitar servicios
 Una vez actualizado el sistema, se realiza un escaneo de los servicios que se están
